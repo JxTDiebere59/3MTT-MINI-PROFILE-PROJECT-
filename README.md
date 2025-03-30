@@ -38,7 +38,7 @@
             <li>Reading</li>
             <li>Coding</li>
             <li>Listening to music</li>
-            <li>DancingS</li>
+            <li>Dancing</li>
         </ul>
      </section>
 
