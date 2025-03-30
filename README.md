@@ -8,10 +8,7 @@
 </head>
 <body>
     
-        <header><h1>My Profile</h1></header>
-
-    <section>
-        <div class="wrapper">
+        <header><h1>My Profile</h1>
      <nav>
         <ul>
             <li>About Me</li>
@@ -19,9 +16,6 @@
             <li>Contact</li>
         </ul>
     </nav>
-
-        </div>
-    </section>
 
     <section>
         <h2>About Me</h2>
